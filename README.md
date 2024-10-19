@@ -19,6 +19,15 @@
 
 ---
 
+💼 **Estou animado para trazer minha experiência e paixão por tecnologia para novos desafios na área de dados!** 💼
+
+## 🌟 Habilidades
+
+- **Análise Estatística**: Sólida experiência em análise estatística e modelagem preditiva.
+- **Visualização de Dados**: Habilidade em criar visualizações intuitivas e informativas.
+- **Resolução de Problemas**: Capacidade de resolver problemas complexos com base em dados.
+- **Colaboração**: Experiência em trabalho em equipe e comunicação eficaz com stakeholders.
+
 ## 🌍 Contato
 Se você estiver interessado em colaborar ou aprender mais sobre meus projetos, fique à vontade para entrar em contato!
 
@@ -223,22 +232,3 @@ A integração de inteligência artificial em meus projetos tem sido fundamental
 - ![Portfólio Principal](https://img.shields.io/badge/Project-Portfólio%20Principal-blue.svg)
 
 ---
-
-## 🌍 Contato
-
-Se você estiver interessado em colaborar ou aprender mais sobre meus projetos, fique à vontade para entrar em contato!
-
-- **LinkedIn**: [Elias Andrade](https://www.linkedin.com/in/itilmgf/)
-- **Email**: oeliasandrade@gmail.com
-- **WhatsApp**: [44 98859 7116](https://wa.me/5544988597116)
-
----
-
-💼 **Estou animado para trazer minha experiência e paixão por tecnologia para novos desafios na área de dados!** 💼
-
-## 🌟 Habilidades
-
-- **Análise Estatística**: Sólida experiência em análise estatística e modelagem preditiva.
-- **Visualização de Dados**: Habilidade em criar visualizações intuitivas e informativas.
-- **Resolução de Problemas**: Capacidade de resolver problemas complexos com base em dados.
-- **Colaboração**: Experiência em trabalho em equipe e comunicação eficaz com stakeholders.
