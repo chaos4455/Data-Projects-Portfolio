@@ -1,4 +1,4 @@
-# 📊 Portfólio de Análise de Dados de Elias Andrade
+# 📊 Portfólio de Análise de Dados  - 2024 >  Elias Andrade
 
 ![Data Analytics](https://github.com/user-attachments/assets/1d8035bc-ec67-4f0b-9393-8fa20a4a3705)
 
@@ -60,11 +60,6 @@ A integração de inteligência artificial em meus projetos tem sido fundamental
 - **Chatbots e Copilots**: Desenvolvimento de soluções automatizadas que ajudam na interação com usuários e na coleta de dados.
 - **Relatórios Automáticos**: Criação de relatórios que se integram com ferramentas como Telegram, WhatsApp e email, facilitando a disseminação de insights em tempo real.
 - **Automação de Fluxos de Coleta e Processamento de Dados**: Implementação de pipelines que garantem a coleta e processamento contínuo de dados, utilizando as melhores práticas em ETL.
-
-## 📈 Exemplos de Projetos
-# 📊 Projetos de Análise de Dados de Elias Andrade
-
-![Data Analytics](https://github.com/user-attachments/assets/1d8035bc-ec67-4f0b-9393-8fa20a4a3705)
 
 ## 🚀 Projetos em Destaque
 
