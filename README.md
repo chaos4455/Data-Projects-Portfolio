@@ -19,6 +19,13 @@
 
 ---
 
+## 🌍 Contato
+Se você estiver interessado em colaborar ou aprender mais sobre meus projetos, fique à vontade para entrar em contato!
+
+- **LinkedIn**: [Elias Andrade](https://www.linkedin.com/in/elias-dataops/)
+- **Email**: oeliasandrade@gmail.com
+- **WhatsApp**: [44 98859 7116](https://wa.me/5544988597116)
+
 🚀 **Bem-vindo ao meu Portfólio de Análise de Dados!** 🚀
 
 Este repositório é uma vitrine das minhas habilidades em análise de dados e ciência de dados, onde apresento exemplos de como aplico tecnologias como **Python** e bibliotecas especializadas para extrair insights valiosos de grandes volumes de dados. Aqui você encontrará uma seleção de projetos que demonstram minha capacidade de transformar dados em decisões estratégicas.
@@ -106,13 +113,6 @@ A integração de inteligência artificial em meus projetos tem sido fundamental
 - **Visualização de Dados**: Habilidade em criar visualizações intuitivas e informativas.
 - **Resolução de Problemas**: Capacidade de resolver problemas complexos com base em dados.
 - **Colaboração**: Experiência em trabalho em equipe e comunicação eficaz com stakeholders.
-
-## 🌍 Contato
-Se você estiver interessado em colaborar ou aprender mais sobre meus projetos, fique à vontade para entrar em contato!
-
-- **LinkedIn**: [Elias Andrade](https://www.linkedin.com/in/itilmgf/)
-- **Email**: oeliasandrade@gmail.com
-- **WhatsApp**: [44 98859 7116](https://wa.me/5544988597116)
 
 ---
 
