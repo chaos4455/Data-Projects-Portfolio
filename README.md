@@ -17,22 +17,34 @@
 [![ETL](https://img.shields.io/badge/ETL-Process-green.svg)](https://en.wikipedia.org/wiki/Extract,_transform,_load)
 [![Chatbot](https://img.shields.io/badge/Chatbot-Development-lightgrey.svg)](https://en.wikipedia.org/wiki/Chatbot)
 
+---
+
 🚀 **Bem-vindo ao meu Portfólio de Análise de Dados!** 🚀
 
 Este repositório é uma vitrine das minhas habilidades em análise de dados e ciência de dados, onde apresento exemplos de como aplico tecnologias como **Python** e bibliotecas especializadas para extrair insights valiosos de grandes volumes de dados. Aqui você encontrará uma seleção de projetos que demonstram minha capacidade de transformar dados em decisões estratégicas.
 
 ## 🛠️ Tecnologias Utilizadas
 
+### 📌 **Linguagens de Programação**
 - **Python**: Linguagem versátil para análise de dados, automação e machine learning.
+- **SQL**: Habilidade em manipulação e consulta de bancos de dados.
+
+### 📊 **Bibliotecas de Análise de Dados**
 - **Pandas**: Biblioteca fundamental para manipulação e análise de dados.
 - **NumPy**: Biblioteca para operações numéricas e manipulação de matrizes.
-- **Matplotlib/Seaborn**: Ferramentas para visualização de dados, permitindo a criação de gráficos e dashboards informativos.
-- **Dash/Plotly**: Frameworks para a construção de aplicações web interativas e painéis de visualização.
+- **Matplotlib & Seaborn**: Ferramentas para visualização de dados, permitindo a criação de gráficos e dashboards informativos.
+- **Dash & Plotly**: Frameworks para a construção de aplicações web interativas e painéis de visualização.
 - **Streamlit**: Ferramenta para criar aplicações de dados rapidamente.
-- **Docker e Kubernetes**: Para containerização e orquestração de aplicações, garantindo escalabilidade e eficiência no processamento de dados.
+
+### ☁️ **Ambientes de Nuvem e Containerização**
+- **Docker**: Para containerização de aplicações, facilitando a implementação e escalabilidade.
+- **Kubernetes**: Para orquestração de containers, garantindo eficiência na execução de serviços.
 - **AWS EC2**: Para implementar soluções em nuvem que suportem a análise de dados.
-- **ETL**: Processos de extração, transformação e carga de dados para análise eficaz.
-  
+
+### 🔄 **ETL e Processamento de Dados**
+- **ETL** (Extract, Transform, Load): Processos de extração, transformação e carga de dados para análise eficaz.
+- **Automação de Processos**: Ansible, Puppet, Chef.
+
 ## 🤖 Análise de Dados com Inteligência Artificial
 
 A integração de inteligência artificial em meus projetos tem sido fundamental para aprimorar a análise de dados. Aqui estão algumas das abordagens que utilizo:
@@ -95,14 +107,13 @@ A integração de inteligência artificial em meus projetos tem sido fundamental
 - **Resolução de Problemas**: Capacidade de resolver problemas complexos com base em dados.
 - **Colaboração**: Experiência em trabalho em equipe e comunicação eficaz com stakeholders.
 
-## 📞 Contato
+## 🌍 Contato
 Se você estiver interessado em colaborar ou aprender mais sobre meus projetos, fique à vontade para entrar em contato!
 
-- **LinkedIn**: [Elias Andrade](https://www.linkedin.com/in/itilmgf/)  
+- **LinkedIn**: [Elias Andrade](https://www.linkedin.com/in/itilmgf/)
 - **Email**: oeliasandrade@gmail.com
-- **Telefone**: 44 98859 7116 (WhatsApp)  
-- **Localização**: Maringá, Paraná, Brasil
+- **WhatsApp**: [44 98859 7116](https://wa.me/5544988597116)
 
 ---
 
-🌐 **Vamos juntos transformar dados em decisões!** 🌐
+💼 **Estou animado para trazer minha experiência e paixão por tecnologia para novos desafios na área de dados!** 💼
