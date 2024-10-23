@@ -232,3 +232,20 @@ A integração de inteligência artificial em meus projetos tem sido fundamental
 - ![Portfólio Principal](https://img.shields.io/badge/Project-Portfólio%20Principal-blue.svg)
 
 ---
+# **Elias Andrade** 💻🚀
+
+Construído com muito amor e dedicação ❤️  
+Elias Andrade - 23/10/2024 - Maringá, Paraná  
+**Isadora, te amo filha do meu coração!** 👨‍👧💖  
+
+### "Não há conhecimento que não seja poder." 💎🦂
+
+## Conecte-se comigo:
+- [LinkedIn](https://www.linkedin.com/in/itilmgf)  
+- [GitHub](https://github.com/evolucaoit)  
+
+## Repositórios:
+- [Chaos4455](https://github.com/chaos4455) 🎲💡  
+- [Replika AI Solutions](https://github.com/replika-ai-solutions?tab=repositories) 🤖🛠️  
+
+Feito com carinho e uma pitada de tecnologia, rsrsrs. 🚀❤️
