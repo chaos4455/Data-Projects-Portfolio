@@ -23,7 +23,42 @@ Este repositório é uma vitrine das minhas habilidades em análise de dados e c
 
 ---
 
-💼 **Estou animado para trazer minha experiência e paixão por tecnologia para novos desafios na área de dados!** 💼
+💼 **Estou animado para trazer minha experiência e paixão por tecnologia para novos desafios na área de dados e projetos mais relevantes !** 💼
+
+## 🚀 Estes prints abaixo mostram um projeto completo de machine learning que já desenvolvi, mostra o processo completo desde a preração dos dados, normalização, processamento, transformação, treinamento e consumo do modelo, gerando insights, graficos e otuputs relevantes aplicado ao setor de credito consignado 
+
+<img width="636" alt="Cursor_0tf8io0b37" src="https://github.com/user-attachments/assets/5737a572-2796-41d6-a571-6c9c331af103">
+<img width="400" alt="Cursor_aOI5mc2qDA" src="https://github.com/user-attachments/assets/d58cb74c-df87-4708-a1b3-b8741bee8b04">
+<img width="375" alt="Cursor_oMe0eLpS2R" src="https://github.com/user-attachments/assets/915f2ef4-64b5-40d2-9997-d6c08bc17d92">
+![dist_idade_20241031_114914](https://github.com/user-attachments/assets/7d35bf62-b980-423f-a1ab-2b108c8d91c3)
+![dist_renda_20241031_114914](https://github.com/user-attachments/assets/95b0205a-ecd4-4402-ba08-6ec27f376a4f)
+![dist_historico_pagamentos_20241031_114914](https://github.com/user-attachments/assets/94898882-c5f1-4748-b7c0-db48e9c72916)
+![dist_score_credito_20241031_114914](https://github.com/user-attachments/assets/433bf65c-2eb3-4680-b855-d12d1689dce4)
+![dist_tempo_relacionamento_20241031_114914](https://github.com/user-attachments/assets/7ef64286-ff13-44f6-94d7-58366bd2051d)
+![dist_valor_20241031_114914](https://github.com/user-attachments/assets/74fef821-0893-4d86-99a3-37ba2b28b398)
+![dist_predicted_score_20241031_114914](https://github.com/user-attachments/assets/4eb658e3-3265-422f-965a-db292741f5da)
+![dist_mes_20241031_114914](https://github.com/user-attachments/assets/c80e6309-3a61-4bd9-8395-caa0fc3f3c1d)
+![dist_cluster_20241031_114914](https://github.com/user-attachments/assets/ad9525bc-ed1a-4355-832c-424c95589fb2)
+![treemap_20241031_114914](https://github.com/user-attachments/assets/edbf1bb0-d47a-4025-a09b-3f5a919d9add)
+<img width="336" alt="Cursor_ppfzVlmPiC" src="https://github.com/user-attachments/assets/704035c6-8c7b-46d6-b29f-fe813ba28c8e">
+<img width="490" alt="Cursor_9PW2WzdaEh" src="https://github.com/user-attachments/assets/9116ad8a-8aff-492f-aef7-b626c8e22712">
+<img width="444" alt="Cursor_FgRSvXObOf" src="https://github.com/user-attachments/assets/aecadb52-2362-4b30-ba89-ccec1197c0f1">
+<img width="463" alt="Cursor_DD9B407DZI" src="https://github.com/user-attachments/assets/20dee0f9-2ad7-464b-aed7-6cb3c1b2c015">
+<img width="461" alt="Cursor_Hr6kaPpK6L" src="https://github.com/user-attachments/assets/c98a3a64-4355-4835-b995-fe11d5bf8fbb">
+<img width="146" alt="Cursor_OeVkR0HNch" src="https://github.com/user-attachments/assets/1ca0e66f-3169-4674-9aa6-2aba54231f98">
+<img width="528" alt="Cursor_L7R4yq9egO" src="https://github.com/user-attachments/assets/cce28c42-0a18-499c-ad29-bb51caed3a28">
+<img width="180" alt="Cursor_XOuOkZRmRk" src="https://github.com/user-attachments/assets/1f2cc014-3881-4c20-87fb-abe9031e799b">
+<img width="459" alt="Cursor_j3tGcZdCtK" src="https://github.com/user-attachments/assets/aeb5eec2-e3ea-489c-b932-8fa99bccec59">
+
+<img width="270" alt="Cursor_VRSZlUZInC" src="https://github.com/user-attachments/assets/1f66671e-a060-46f5-8e09-9ebb12a27fb0">
+<img width="297" alt="Cursor_hZ6d7VL0Dd" src="https://github.com/user-attachments/assets/3d6a6188-8e88-42cb-8245-a3278a48f9d0">
+<img width="365" alt="Cursor_ExzxBDr3z2" src="https://github.com/user-attachments/assets/66050431-af0b-4f9c-91b4-a657e4b6cae7">
+<img width="305" alt="Cursor_yhq3FXYQ42" src="https://github.com/user-attachments/assets/5898430b-ebe9-4e13-aa25-d43b5229941f">
+<img width="401" alt="Cursor_5iJBJEB9Fz" src="https://github.com/user-attachments/assets/e291df8f-1878-4afb-851f-4dc68544b282">
+<img width="286" alt="Cursor_Z3ZXKM0fm1" src="https://github.com/user-attachments/assets/abce3a92-669c-4afa-90cc-c5e44a4aa00d">
+<img width="305" alt="Cursor_4GdZD3wAaW" src="https://github.com/user-attachments/assets/d3f8f97a-fda7-4136-83c5-81b629f2b9e1">
+<img width="593" alt="Cursor_axdfOCk8dI" src="https://github.com/user-attachments/assets/4193eaa8-7c68-4518-b369-b18053f105e5">
+
 
 ## 🌟 Habilidades
 
