@@ -119,6 +119,34 @@ A integração de inteligência artificial em meus projetos tem sido fundamental
 
 ## 🚀 Projetos em Destaque
 
+Apresento abaixo alguns prints de um projeto de análise de dados usando redes neurais com python, tensorflow e keras aplicado a problemas e soluções de alto impacto
+
+![grafico2](https://github.com/user-attachments/assets/635824a9-7495-447f-a538-fed1fa0b9d98)
+![grafico3](https://github.com/user-attachments/assets/7721ff29-0d13-4e77-82a1-1bd044dc6605)
+![grafico4](https://github.com/user-attachments/assets/5cf06a73-c177-4d87-8547-c0523b7ea02e)
+![grafico5](https://github.com/user-attachments/assets/26b81f35-76df-40ad-bd86-a30915b1a528)
+![grafico6](https://github.com/user-attachments/assets/de0ce312-7c90-4ca3-9ce2-b60d3a52730f)
+![grafico7](https://github.com/user-attachments/assets/c2025898-dd3a-4d9e-a4ca-5db0bed42de8)
+![grafico8](https://github.com/user-attachments/assets/f6c7f5fa-0650-4184-b283-5b646b12eed0)
+![grafico16](https://github.com/user-attachments/assets/ad8fc0d3-98ed-4c25-b7d3-03ca5509b9fb)
+![grafico17](https://github.com/user-attachments/assets/e9ce6a42-8c90-4b3f-bef6-5f726d62f05e)
+![screencapture-127-0-0-1-8050-2024-10-30-22_29_41](https://github.com/user-attachments/assets/68f6adeb-ee04-42e3-acba-2362213de05d)
+![histograma_idade](https://github.com/user-attachments/assets/db90eee9-dd2e-46fa-9688-f099a06ac1c1)
+![histograma_valor_emprestimo](https://github.com/user-attachments/assets/3189d189-c10e-4ceb-9d67-b748853d52fb)
+![histograma_prazo_emprestimo](https://github.com/user-attachments/assets/d479fb56-bea9-4ca2-8651-eb09f0f7e66d)
+![histograma_renda_mensal](https://github.com/user-attachments/assets/a9df867b-dd29-4355-95a5-581d7f3f7f35)
+![histograma_score_credito](https://github.com/user-attachments/assets/667301fd-cd6c-483b-a850-fc29bd8b328a)
+![graph-1](https://github.com/user-attachments/assets/6a0881f1-fede-4693-bcf0-4361926eae61)
+![graph-6](https://github.com/user-attachments/assets/be7d987f-0011-48ee-9085-7d40c5409d9b)
+![graph-8](https://github.com/user-attachments/assets/5384c200-04ec-4c37-ade9-ba04df69d06b)
+
+
+
+![graph-12](https://github.com/user-attachments/assets/90006b85-59cb-45c8-bb7c-404697e5af32)
+![graph-16](https://github.com/user-attachments/assets/4d930e2d-3f77-4652-9c96-3487d96d3c11)
+![graph-19](https://github.com/user-attachments/assets/7b7c2f6a-bbc9-43cd-bb26-4797932f588d)
+
+
 ### 1. **Painel de Análise de Dados com Flask e Dash**
 - **Descrição**: Desenvolvimento de um painel interativo utilizando **Flask** e **Dash** para visualização de métricas e indicadores de desempenho em tempo real.
 - **Tecnologias**: 
