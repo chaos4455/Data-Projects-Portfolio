@@ -30,16 +30,28 @@ Este repositório é uma vitrine das minhas habilidades em análise de dados e c
 <img width="636" alt="Cursor_0tf8io0b37" src="https://github.com/user-attachments/assets/5737a572-2796-41d6-a571-6c9c331af103">
 <img width="400" alt="Cursor_aOI5mc2qDA" src="https://github.com/user-attachments/assets/d58cb74c-df87-4708-a1b3-b8741bee8b04">
 <img width="375" alt="Cursor_oMe0eLpS2R" src="https://github.com/user-attachments/assets/915f2ef4-64b5-40d2-9997-d6c08bc17d92">
+
 ![dist_idade_20241031_114914](https://github.com/user-attachments/assets/7d35bf62-b980-423f-a1ab-2b108c8d91c3)
+
 ![dist_renda_20241031_114914](https://github.com/user-attachments/assets/95b0205a-ecd4-4402-ba08-6ec27f376a4f)
+
 ![dist_historico_pagamentos_20241031_114914](https://github.com/user-attachments/assets/94898882-c5f1-4748-b7c0-db48e9c72916)
+
 ![dist_score_credito_20241031_114914](https://github.com/user-attachments/assets/433bf65c-2eb3-4680-b855-d12d1689dce4)
+
 ![dist_tempo_relacionamento_20241031_114914](https://github.com/user-attachments/assets/7ef64286-ff13-44f6-94d7-58366bd2051d)
+
 ![dist_valor_20241031_114914](https://github.com/user-attachments/assets/74fef821-0893-4d86-99a3-37ba2b28b398)
+
 ![dist_predicted_score_20241031_114914](https://github.com/user-attachments/assets/4eb658e3-3265-422f-965a-db292741f5da)
+
+
 ![dist_mes_20241031_114914](https://github.com/user-attachments/assets/c80e6309-3a61-4bd9-8395-caa0fc3f3c1d)
+
 ![dist_cluster_20241031_114914](https://github.com/user-attachments/assets/ad9525bc-ed1a-4355-832c-424c95589fb2)
+
 ![treemap_20241031_114914](https://github.com/user-attachments/assets/edbf1bb0-d47a-4025-a09b-3f5a919d9add)
+
 <img width="336" alt="Cursor_ppfzVlmPiC" src="https://github.com/user-attachments/assets/704035c6-8c7b-46d6-b29f-fe813ba28c8e">
 <img width="490" alt="Cursor_9PW2WzdaEh" src="https://github.com/user-attachments/assets/9116ad8a-8aff-492f-aef7-b626c8e22712">
 <img width="444" alt="Cursor_FgRSvXObOf" src="https://github.com/user-attachments/assets/aecadb52-2362-4b30-ba89-ccec1197c0f1">
