@@ -27,6 +27,15 @@ Este repositório é uma vitrine das minhas habilidades em análise de dados e c
 
 ## 🚀 Estes prints abaixo mostram um projeto completo de machine learning que já desenvolvi, mostra o processo completo desde a preração dos dados, normalização, processamento, transformação, treinamento e consumo do modelo, gerando insights, graficos e otuputs relevantes aplicado ao setor de credito consignado 
 
+Algoritmos de segmentação:
+
+![grafico_1](https://github.com/user-attachments/assets/46d109b0-5b01-4103-bba2-988bee9f59cd)
+![grafico_2](https://github.com/user-attachments/assets/f58d1dce-ace4-4193-9357-f4b9a7e50d95)
+![grafico_3](https://github.com/user-attachments/assets/fac3578d-31a1-4188-8c85-7d2830e95da3)
+![grafico_4](https://github.com/user-attachments/assets/61d1bd03-fb44-4edc-af57-67e3aac19fa4)
+![grafico_5](https://github.com/user-attachments/assets/7946a39d-ffaf-4d58-8ac2-3d3e44898eaa)
+
+
 <img width="636" alt="Cursor_0tf8io0b37" src="https://github.com/user-attachments/assets/5737a572-2796-41d6-a571-6c9c331af103">
 <img width="400" alt="Cursor_aOI5mc2qDA" src="https://github.com/user-attachments/assets/d58cb74c-df87-4708-a1b3-b8741bee8b04">
 <img width="375" alt="Cursor_oMe0eLpS2R" src="https://github.com/user-attachments/assets/915f2ef4-64b5-40d2-9997-d6c08bc17d92">
