@@ -35,6 +35,19 @@ Algoritmos de segmentação:
 ![grafico_4](https://github.com/user-attachments/assets/61d1bd03-fb44-4edc-af57-67e3aac19fa4)
 ![grafico_5](https://github.com/user-attachments/assets/7946a39d-ffaf-4d58-8ac2-3d3e44898eaa)
 
+## 🚀 Nestes prints a seguir mostro um sisema super avançado de agentes autonomos com o google gemini 1.5 flash - a automação é capaz de gerenciar ecosistema de agentes autonos, gerar codigo utilizável no mundo real, ela propria executar os codigos gerados e gerar graficos e artefatos reais de analise do dataset real automatizando 100 % e full cycle o processo de analise de dados em um caso de uso prático de uso de inteligência  artificial pra análise de dados de ponta a ponta.
+
+![screencapture-127-0-0-1-8050-2024-10-22-22_33_40](https://github.com/user-attachments/assets/7001a301-42de-4e4e-8061-5bfe23606374)
+![grafico1_problemas](https://github.com/user-attachments/assets/15de1bf2-3cc8-4ebd-b21e-519b96f191c5)
+![grafico2_setores](https://github.com/user-attachments/assets/6e82c1f5-7428-4a2b-8adf-f09f9a9c7ed4)
+![grafico3_equipamentos](https://github.com/user-attachments/assets/0743ff6e-4972-477e-a963-a1e5caefbf1c)
+![grafico4_impacto](https://github.com/user-attachments/assets/8bf4141e-5755-4ba4-b3da-64d3cd057fc4)
+![chrome_TkRb17o5DG](https://github.com/user-attachments/assets/34b4c611-89b4-42de-b30e-1b37d0314e10)
+![chrome_9Yx029HVPd](https://github.com/user-attachments/assets/1f921264-556c-42a6-ae92-3838c6c36a7b)
+![chrome_57PIJ5WB5p](https://github.com/user-attachments/assets/c1aa5cbf-dd8c-4fe6-8c4b-72dd8394ab0a)
+![chrome_hLsyHZ14JY](https://github.com/user-attachments/assets/34380fb9-14ff-424c-8fa3-3e7d5a608ea9)
+![chrome_vhAEmleowO](https://github.com/user-attachments/assets/473d7981-d1e9-464a-802e-a8840c848bf6)
+
 
 <img width="636" alt="Cursor_0tf8io0b37" src="https://github.com/user-attachments/assets/5737a572-2796-41d6-a571-6c9c331af103">
 <img width="400" alt="Cursor_aOI5mc2qDA" src="https://github.com/user-attachments/assets/d58cb74c-df87-4708-a1b3-b8741bee8b04">
