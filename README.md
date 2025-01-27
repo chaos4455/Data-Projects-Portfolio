@@ -1,5 +1,3 @@
-# 📊 Portfólio de Análise de Dados Estratégicos para Supply Chain, Estoque e Controladoria - 2025 >  Elias Andrade
-
 # **Elias Andrade** 💻🚀 - Data Scientist & Analytics Consultant | Freelancer & PJ
 
 ![e198db08-18b0-4381-8660-bcda84fe872f](https://github.com/user-attachments/assets/4edf99ec-03a0-4ad9-a410-604149805405)
@@ -27,6 +25,10 @@ Este repositório demonstra minhas habilidades especializadas em análise de dad
 [![Airflow](https://img.shields.io/badge/Airflow-Orchestration-darkcyan.svg)](https://airflow.apache.org/)
 [![MLflow](https://img.shields.io/badge/MLflow-MLOps-black.svg)](https://mlflow.org/)
 [![Kubeflow](https://img.shields.io/badge/Kubeflow-Orchestration-lightgray.svg)](https://www.kubeflow.org/)
+
+# 📊 Portfólio de Análise de Dados Estratégicos para Supply Chain, Estoque e Controladoria - 2025 >  Elias Andrade
+
+![4f787736-4412-4f57-8de4-fb057dbf0ef5](https://github.com/user-attachments/assets/4e131ad6-0222-442e-b0b0-7c60fa5626d7)
 
 
 ### 🚀  **Roadmap 2025 - Aprofundamento em Data Engineering e MLOps** 🚀
@@ -80,7 +82,12 @@ Os prints abaixo ilustram um projeto completo de machine learning que desenvolvi
 
 *   **🔑 Ferramentas para Aceleração da Adoção de Dados em Empresas:**  Criação de soluções  **intuitivas e de baixo código para democratizar o acesso à análise de dados dentro das organizações.**  Desenvolvimento de **dashboards interativos, aplicações Streamlit e copilotos de dados com IA** que permitem usuários de negócio explorarem dados, gerarem insights e tomarem decisões baseadas em dados de forma independente. 💡
 
+
 *   **📊 Dashboards Inteligentes & BI Aumentado com Inteligência Artificial:**  Construção de dashboards de BI que vão além da visualização passiva de dados.  Implementação de **funcionalidades de BI aumentado com IA, como geração automática de insights em linguagem natural, detecção proativa de anomalias, recomendações inteligentes e copilotos de dados integrados aos dashboards**,  transformando dashboards em verdadeiros assistentes de análise e decisão. 📈
+
+![download](https://github.com/user-attachments/assets/3c10265c-b235-4c40-a385-a5fad034e404)
+![download (1)](https://github.com/user-attachments/assets/36baf9ed-9baa-4fab-946a-fca9628c8d63)
+
 
 *   **📦 Ferramenta Proprietária de Otimização de Estoque Impulsionada por IA:**  Desenvolvimento de uma **solução completa e personalizável para otimização de gestão de estoque**, utilizando  **modelos preditivos de Machine Learning para previsão de demanda, análise da Curva ABC, simulações de cenários e recomendações automatizadas de níveis de estoque.**  Esta ferramenta visa **reduzir custos de armazenagem, minimizar rupturas de estoque e maximizar a eficiência da gestão de inventário.** 🧰
 
