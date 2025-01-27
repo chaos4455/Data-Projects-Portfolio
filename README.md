@@ -78,6 +78,13 @@ Os prints abaixo ilustram um projeto completo de machine learning que desenvolvi
 
 *   **🤖 Agentes Autônomos de Análise de Dados com IA Generativa:**  Desenvolvimento de agentes inteligentes que **automatizam a análise exploratória de dados (EDA) e a geração de insights acionáveis.**  Estes agentes, impulsionados por IA generativa, **criam e executam código Python sob demanda**,  gerando visualizações, relatórios e recomendações de forma totalmente autônoma.  🚀  _(Gráficos e exemplos visuais em breve!)_
 
+![comparacao_performance_modelos](https://github.com/user-attachments/assets/f9057aca-7390-4375-b1c8-beb47251c19a)
+
+![analise_comportamento](https://github.com/user-attachments/assets/c6bdfbdb-fd65-4380-9616-9f4986152d14)
+
+![bradesco_log_data_20241213_183439_d31c68ae442340da8a7512a71f0de119_analise](https://github.com/user-attachments/assets/173b9693-48d7-49f4-95db-02bfa9841662)
+
+
 *   **⚙️ Automação Full-Cycle de Pipelines de Dados com DataOps & MLOps:**  Implementação de pipelines de dados **completamente automatizados, desde a ingestão e transformação de dados até o treinamento, deploy e monitoramento de modelos de Machine Learning.**  Utilização de  **DataOps e MLOps para garantir a qualidade, escalabilidade e governança dos pipelines**, acelerando o ciclo de vida de projetos de dados e IA. 🌊
 
 *   **🔑 Ferramentas para Aceleração da Adoção de Dados em Empresas:**  Criação de soluções  **intuitivas e de baixo código para democratizar o acesso à análise de dados dentro das organizações.**  Desenvolvimento de **dashboards interativos, aplicações Streamlit e copilotos de dados com IA** que permitem usuários de negócio explorarem dados, gerarem insights e tomarem decisões baseadas em dados de forma independente. 💡
