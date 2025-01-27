@@ -84,6 +84,10 @@ Os prints abaixo ilustram um projeto completo de machine learning que desenvolvi
 
 *   **📦 Ferramenta Proprietária de Otimização de Estoque Impulsionada por IA:**  Desenvolvimento de uma **solução completa e personalizável para otimização de gestão de estoque**, utilizando  **modelos preditivos de Machine Learning para previsão de demanda, análise da Curva ABC, simulações de cenários e recomendações automatizadas de níveis de estoque.**  Esta ferramenta visa **reduzir custos de armazenagem, minimizar rupturas de estoque e maximizar a eficiência da gestão de inventário.** 🧰
 
+<img width="809" alt="AsPowerBar_bcyEQXTXd4" src="https://github.com/user-attachments/assets/88eb0d83-43c2-4e0a-b014-0dc9e642ccd0" />
+<img width="789" alt="AsPowerBar_qGRs4YdIgs" src="https://github.com/user-attachments/assets/cbd8fc03-4fc3-424e-9c63-c6a0fbf513f3" />
+
+
 *   **🌐 Expertise Abrangente em Negócios, Indicadores e Performance:**  Aplicação de um **profundo conhecimento de negócios, KPIs e métricas de performance para direcionar projetos de dados e garantir que as soluções entregues gerem valor real e impacto mensurável.**  Foco em  **entender os desafios de negócio dos clientes e traduzi-los em soluções de dados que impulsionem o crescimento, a eficiência e a vantagem competitiva.** 🎯
 
 🗓️ **Update: 27 de Janeiro de 2025** 🗓️
