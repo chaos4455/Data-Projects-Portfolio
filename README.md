@@ -1,10 +1,12 @@
 # 📊 Portfólio de Análise de Dados Estratégicos para Supply Chain, Estoque e Controladoria - 2025 >  Elias Andrade
 
+# **Elias Andrade** 💻🚀 - Data Scientist & Analytics Consultant | Freelancer & PJ
+
+![Supply Chain Data Analytics](https://github.com/user-attachments/assets/1d8035bc-ec67-4f0b-9393-8fa20a4a3705)
+
 🚀 **Bem-vindo ao meu Portfólio de Análise de Dados Estratégicos para Negócios!** 🚀
 
 Este repositório demonstra minhas habilidades especializadas em análise de dados, focadas em otimizar **cadeias de suprimentos, gestão de estoque e controladoria**.  Apresento projetos que aplicam **Python** e um conjunto robusto de bibliotecas para transformar dados brutos em insights acionáveis, gerando valor real para empresas que buscam **eficiência, redução de custos e vantagem competitiva**.  Se você procura um especialista para impulsionar sua operação com dados, você está no lugar certo!
-
-![Supply Chain Data Analytics](https://github.com/user-attachments/assets/1d8035bc-ec67-4f0b-9393-8fa20a4a3705)
 
 [![License](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 [![Python](https://img.shields.io/badge/Python-v3.9+-blue.svg)](https://www.python.org/)
@@ -139,8 +141,6 @@ Um dos primeiros livros de indciadroes e KPis que comprei ainda em 2017, estudo 
 ![decomposicao_arima](https://github.com/user-attachments/assets/91b5420e-3571-410e-93d6-01f9c739c9d2)
 
 ---
-
-# **Elias Andrade** 💻🚀 - Data Scientist & Analytics Consultant | Freelancer & PJ
 
 **Segmentação de Clientes e Análise de Risco:**
 
