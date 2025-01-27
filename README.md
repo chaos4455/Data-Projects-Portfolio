@@ -64,6 +64,84 @@ Elias Andrade - 27/01/2025 - Maringá, Paraná
 
 Os prints abaixo ilustram um projeto completo de machine learning que desenvolvi, demonstrando todo o ciclo de vida do projeto: **pré-processamento de dados, normalização, transformação, treinamento de modelos e consumo**, culminando na geração de insights, gráficos e outputs relevantes para o setor de crédito consignado. Este projeto exemplifica minha capacidade de aplicar técnicas avançadas de análise para otimizar processos de negócio e melhorar a tomada de decisões em setores altamente regulamentados.
 
+
+# 📊 Portfólio de Análise de Dados Estratégicos para Supply Chain, Estoque e Controladoria - 2025 >  Elias Andrade
+
+
+## 🔥 Projetos Recentes & Inovações (2024-2025) 🔥
+
+**Inovações de Ponta em Automação e Inteligência Artificial para Dados:**
+
+*   **🤖 Agentes Autônomos de Análise de Dados com IA Generativa:**  Desenvolvimento de agentes inteligentes que **automatizam a análise exploratória de dados (EDA) e a geração de insights acionáveis.**  Estes agentes, impulsionados por IA generativa, **criam e executam código Python sob demanda**,  gerando visualizações, relatórios e recomendações de forma totalmente autônoma.  🚀  _(Gráficos e exemplos visuais em breve!)_
+
+*   **⚙️ Automação Full-Cycle de Pipelines de Dados com DataOps & MLOps:**  Implementação de pipelines de dados **completamente automatizados, desde a ingestão e transformação de dados até o treinamento, deploy e monitoramento de modelos de Machine Learning.**  Utilização de  **DataOps e MLOps para garantir a qualidade, escalabilidade e governança dos pipelines**, acelerando o ciclo de vida de projetos de dados e IA. 🌊
+
+*   **🔑 Ferramentas para Aceleração da Adoção de Dados em Empresas:**  Criação de soluções  **intuitivas e de baixo código para democratizar o acesso à análise de dados dentro das organizações.**  Desenvolvimento de **dashboards interativos, aplicações Streamlit e copilotos de dados com IA** que permitem usuários de negócio explorarem dados, gerarem insights e tomarem decisões baseadas em dados de forma independente. 💡
+
+*   **📊 Dashboards Inteligentes & BI Aumentado com Inteligência Artificial:**  Construção de dashboards de BI que vão além da visualização passiva de dados.  Implementação de **funcionalidades de BI aumentado com IA, como geração automática de insights em linguagem natural, detecção proativa de anomalias, recomendações inteligentes e copilotos de dados integrados aos dashboards**,  transformando dashboards em verdadeiros assistentes de análise e decisão. 📈
+
+*   **📦 Ferramenta Proprietária de Otimização de Estoque Impulsionada por IA:**  Desenvolvimento de uma **solução completa e personalizável para otimização de gestão de estoque**, utilizando  **modelos preditivos de Machine Learning para previsão de demanda, análise da Curva ABC, simulações de cenários e recomendações automatizadas de níveis de estoque.**  Esta ferramenta visa **reduzir custos de armazenagem, minimizar rupturas de estoque e maximizar a eficiência da gestão de inventário.** 🧰
+
+*   **🌐 Expertise Abrangente em Negócios, Indicadores e Performance:**  Aplicação de um **profundo conhecimento de negócios, KPIs e métricas de performance para direcionar projetos de dados e garantir que as soluções entregues gerem valor real e impacto mensurável.**  Foco em  **entender os desafios de negócio dos clientes e traduzi-los em soluções de dados que impulsionem o crescimento, a eficiência e a vantagem competitiva.** 🎯
+
+🗓️ **Update: 27 de Janeiro de 2025** 🗓️
+
+Um dos primeiros livros de indciadroes e KPis que comprei ainda em 2017, estudo a fundo o tema irá fazer 10 anos em 2027 
+
+<img width="427" alt="chrome_SEqBCHcbMt" src="https://github.com/user-attachments/assets/ef7cbf7d-94b9-46e1-a173-6c5794535555" />
+
+![4e8ef7e88793e2808349813af479f4545f29f4b13d6fc685af23c30f](https://github.com/user-attachments/assets/b33df596-2d78-42ab-884b-d14e3fc9c4b2)
+
+![1eb258979dec8048e32c52c0b93889ac574cd077e6431fb9ee5c41b5](https://github.com/user-attachments/assets/4f44886d-2163-4f61-ba85-0495023f6713)
+
+![fd4c74e22f91889763983ff1664e75cf12caee667c120acd5e9d068d](https://github.com/user-attachments/assets/47150a59-8dd8-40f4-9ae2-7e4f5a0b2b18)
+
+![bf8cffaf02a357c6e6473fce4261d574f53623be966a12b5155d74e3](https://github.com/user-attachments/assets/5d7b7586-6095-4ef6-8234-897c3a6de9e7)
+
+![13c71c2c8da4687360ba28ee86bff159d4673e5c7def038b33ca4b44](https://github.com/user-attachments/assets/8efbdf25-87d5-47fd-b988-46d787ac45da)
+
+![0d4672a5140a4cacee88accfaa029a929a127972eefe83c7dd1c824f](https://github.com/user-attachments/assets/fdb9137f-e3d4-4945-b7f5-16186b5f48ec)
+
+![73717553eafc323bf5e43dfd75057d0a2af50babfe22bc20007b3105](https://github.com/user-attachments/assets/fffdf0ed-0044-49a2-97c4-78c70f2cb747)
+
+![c2ccac3d45ac8630792b7887945403ca9a5d62c6de677747557ca6d0](https://github.com/user-attachments/assets/d7a63580-b928-4d27-968c-b2455237b179)
+
+![c2a31f2757d535366895aa0746821ca10132d87f5d151ebbafe3f808](https://github.com/user-attachments/assets/99d5abd7-fd18-4090-98eb-0ee74816a51e)
+
+![1c15ece2665c75f5dace56f0d173e49e8253da3f963141dfd7343f11 (1)](https://github.com/user-attachments/assets/6b44ecc4-70ba-47f8-a859-49893c229d35)
+
+![fffc2fa094684cf86b5b7b616afe069c39d589c9c4f30481a2611368 (1)](https://github.com/user-attachments/assets/71dfe11a-53db-40cf-814b-d6ddce48ad98)
+
+![fa59b2b1db778c1f0484d229e0f261b86e3a6f949b02f18cffe25613 (1)](https://github.com/user-attachments/assets/805275a3-27e5-46bc-8861-a61ff1e525c3)
+
+![380e8118abe799ec1476ef3890094323e48d53d810ab10d0e729b2e3](https://github.com/user-attachments/assets/0822687b-0aed-445a-9a08-8ed66c0cf27b)
+
+![7e35d20e833e33f2afd4c0e1211d3a5e228053d4be30c2c396c30b57](https://github.com/user-attachments/assets/9a237edf-b119-49a1-a84e-e22335b17885)
+
+![598fad63ff3da64ce3399e50fdc6baaa369bd452e18665dc80f4eb80](https://github.com/user-attachments/assets/e5376a0e-2a84-4ebf-b63a-e04847250d90)
+
+![fe8b3ecd798b27fcbb91108e75e6c196fe8b0ce88b4a3019d613066d](https://github.com/user-attachments/assets/730641c0-6126-4a60-b5ba-0a971a8ae576)
+
+![9a3098f15fb6810df31f6b1b8c275ced93739838b2eee84c91b0766e](https://github.com/user-attachments/assets/d90db801-d7f9-4489-878b-86ae3ccf571e)
+
+![97aedda859a6fd50dec779cbfcbab4c5d700b19df8735279162cb77f](https://github.com/user-attachments/assets/ebd77333-9b34-441d-b7c0-7a1740ee2517)
+
+![43ab41a9786a27ef05d442fe51f624988284e8e3a6ca5f4b1fa847c4](https://github.com/user-attachments/assets/13cedaa8-9894-4d3e-a445-d87431502599)
+
+![6b9a9da4d7ef989cb32e090f2ab6a08aa51322376850452fec6dc8f2 (1)](https://github.com/user-attachments/assets/23b9a5d5-c226-45a8-a9fe-9712f6e377f6)
+
+![707efe946abc69385cb5813353e6a9992a1d0cb6a8684ef5b3c87b86](https://github.com/user-attachments/assets/83d60a07-c400-452b-9440-214c657f48e2)
+
+![617482724f764ca286dc40650047994b669c64417cc759ed7be915ba (1)](https://github.com/user-attachments/assets/58876c27-f106-44dc-8b63-7bf9d0a7fb7e)
+
+![previsao_prophet](https://github.com/user-attachments/assets/6e034cce-a6b7-4f0b-9ab0-a1a7209fdb81)
+
+![decomposicao_arima](https://github.com/user-attachments/assets/91b5420e-3571-410e-93d6-01f9c739c9d2)
+
+---
+
+# **Elias Andrade** 💻🚀 - Data Scientist & Analytics Consultant | Freelancer & PJ
+
 **Segmentação de Clientes e Análise de Risco:**
 
 ![grafico_1](https://github.com/user-attachments/assets/46d109b0-5b01-4103-bba2-988bee9f59cd)
