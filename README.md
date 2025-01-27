@@ -4,29 +4,27 @@
 
 [![Repo Auto IA & Data](https://img.shields.io/badge/🚀%20Ver%20Repo%20Auto%20IA-blue?style=for-the-badge&logo=github&logoColor=white&labelColor=dodgerblue&logoWidth=20)](https://github.com/chaos4455/Auto-BI-auto-ML-LLM-Gen-Gemini-2-Automation)
 
+[![Streamlit Web Apps](https://img.shields.io/badge/Web%20Apps-Streamlit-orange?style=flat-square&logo=streamlit&logoColor=white)](https://streamlit.io/)
+[![Automated BI](https://img.shields.io/badge/BI-Automated-green?style=flat-square&logo=powerbi&logoColor=white)](https://powerbi.microsoft.com/)
+[![Automated ML](https://img.shields.io/badge/ML-Automated-purple?style=flat-square&logo=scikit-learn&logoColor=white)](https://scikit-learn.org/stable/)
+[![LLMs & Gemini](https://img.shields.io/badge/LLMs-Gemini%20%26%20GenAI-red?style=flat-square&logo=google-cloud&logoColor=white)](https://cloud.google.com/gemini)
+[![Python](https://img.shields.io/badge/Language-Python-yellow?style=flat-square&logo=python&logoColor=white)](https://www.python.org/)
+
 <br>
 
-Repositório focado em **Inteligência Artificial (IA)** para **automatização de análise de dados**, **Business Intelligence (Auto BI)** e **Machine Learning (Auto ML)**.  Criação de **web apps com Streamlit** para otimizar processos de dados com **LLMs (Large Language Models)** e **Gemini 2**.
+Repositório dedicado a **Inteligência Artificial (IA)** para **automatizar análise de dados**, **Business Intelligence (Auto BI)** e **Machine Learning (Auto ML)**. Desenvolvemos **web apps com Streamlit** impulsionados por **LLMs (Large Language Models)** e **Gemini 2** para revolucionar seus fluxos de dados.
 
 **Aplicações Principais:**
 
-*   📦 **Estoque & Suprimentos:** Otimização de gestão de estoque e cadeia de suprimentos com IA.
-*   🔮 **Predição & Previsão:**  Modelos de IA para previsões e análises preditivas.
-*   📈 **Otimização:** Ferramentas para otimizar processos e decisões baseadas em dados.
-*   📊 **Queries & Relatórios IA:**
-    *   🧠 Construção inteligente de queries com IA.
-    *   🚀 Execução automática de queries.
-    *   📈 Geração de gráficos e relatórios automatizados.
+*   📦 **Otimização de Estoque & Cadeia de Suprimentos:**  IA para gestão inteligente e eficiente.
+*   🔮 **Análises Preditivas & Previsões:**  Modelos avançados para antecipar tendências e demandas.
+*   📈 **Otimização de Processos Data-Driven:**  Ferramentas para decisões otimizadas baseadas em dados precisos.
+*   📊 **Relatórios & Queries Inteligentes com IA:**
+    *   <img src="https://img.icons8.com/fluency/24/000000/artificial-intelligence.png" width="20" height="20" alt="IA Icon"/>  Construção de queries complexas assistida por IA.
+    *   <img src="https://img.icons8.com/fluency/24/000000/data-processing.png" width="20" height="20" alt="Data Processing Icon"/>  Execução automatizada de queries e pipelines de dados.
+    *   <img src="https://img.icons8.com/fluency/24/000000/chart.png" width="20" height="20" alt="Chart Icon"/>  Geração dinâmica de gráficos e relatórios personalizados.
 
-**Tecnologias:**
-
-*   <img src="https://img.icons8.com/color/24/000000/artificial-intelligence.png" width="20" height="20" alt="IA Icon"/> **IA (Inteligência Artificial)**
-*   <img src="https://img.icons8.com/color/24/000000/machine-learning.png" width="20" height="20" alt="ML Icon"/> **Auto ML (Machine Learning Automatizado)**
-*   <img src="https://img.icons8.com/color/24/000000/business-intelligence.png" width="20" height="20" alt="BI Icon"/> **Auto BI (Business Intelligence Automatizado)**
-*   <img src="https://img.icons8.com/color/24/000000/python.png" width="20" height="20" alt="Python Icon"/> **Streamlit (Web Apps Python)**
-*   <img src="https://img.icons8.com/color/24/000000/google-gemini.png" width="20" height="20" alt="Gemini Icon"/> **Gemini 2 & LLMs**
-
-**Explore o repositório para mais detalhes e exemplos de uso!**  [Acesse o Repo Aqui](https://github.com/chaos4455/Auto-BI-auto-ML-LLM-Gen-Gemini-2-Automation) 👈
+**Explore o poder da IA para dados!**  [Visite o Repositório Aqui](https://github.com/chaos4455/Auto-BI-auto-ML-LLM-Gen-Gemini-2-Automation) 👈
 
 ---
 🚀 **Bem-vindo ao meu Portfólio de Análise de Dados Estratégicos para Negócios!** 🚀
