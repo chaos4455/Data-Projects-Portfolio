@@ -2,7 +2,7 @@
 
 # **Elias Andrade** 💻🚀 - Data Scientist & Analytics Consultant | Freelancer & PJ
 
-![Supply Chain Data Analytics](https://github.com/user-attachments/assets/1d8035bc-ec67-4f0b-9393-8fa20a4a3705)
+![e198db08-18b0-4381-8660-bcda84fe872f](https://github.com/user-attachments/assets/4edf99ec-03a0-4ad9-a410-604149805405)
 
 🚀 **Bem-vindo ao meu Portfólio de Análise de Dados Estratégicos para Negócios!** 🚀
 
