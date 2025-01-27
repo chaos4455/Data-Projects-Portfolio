@@ -21,8 +21,6 @@ Repositório dedicado a **Inteligência Artificial (IA)** para **automatizar an�
 *   📈 **Otimização de Processos Data-Driven:**  Ferramentas para decisões otimizadas baseadas em dados precisos.
 *   📊 **Relatórios & Queries Inteligentes com IA:**
     *   <img src="https://img.icons8.com/fluency/24/000000/artificial-intelligence.png" width="20" height="20" alt="IA Icon"/>  Construção de queries complexas assistida por IA.
-    *   <img src="https://img.icons8.com/fluency/24/000000/data-processing.png" width="20" height="20" alt="Data Processing Icon"/>  Execução automatizada de queries e pipelines de dados.
-    *   <img src="https://img.icons8.com/fluency/24/000000/chart.png" width="20" height="20" alt="Chart Icon"/>  Geração dinâmica de gráficos e relatórios personalizados.
 
 **Explore o poder da IA para dados!**  [Visite o Repositório Aqui](https://github.com/chaos4455/Auto-BI-auto-ML-LLM-Gen-Gemini-2-Automation) 👈
 
