@@ -1,7 +1,34 @@
 # **Elias Andrade** 💻🚀 - Data Scientist & Analytics Consultant | Freelancer & PJ
 
-![e198db08-18b0-4381-8660-bcda84fe872f](https://github.com/user-attachments/assets/4edf99ec-03a0-4ad9-a410-604149805405)
+## 🤖 Auto IA & Data Automation Web Apps 📊
 
+[![Repo Auto IA & Data](https://img.shields.io/badge/🚀%20Ver%20Repo%20Auto%20IA-blue?style=for-the-badge&logo=github&logoColor=white&labelColor=dodgerblue&logoWidth=20)](https://github.com/chaos4455/Auto-BI-auto-ML-LLM-Gen-Gemini-2-Automation)
+
+<br>
+
+Repositório focado em **Inteligência Artificial (IA)** para **automatização de análise de dados**, **Business Intelligence (Auto BI)** e **Machine Learning (Auto ML)**.  Criação de **web apps com Streamlit** para otimizar processos de dados com **LLMs (Large Language Models)** e **Gemini 2**.
+
+**Aplicações Principais:**
+
+*   📦 **Estoque & Suprimentos:** Otimização de gestão de estoque e cadeia de suprimentos com IA.
+*   🔮 **Predição & Previsão:**  Modelos de IA para previsões e análises preditivas.
+*   📈 **Otimização:** Ferramentas para otimizar processos e decisões baseadas em dados.
+*   📊 **Queries & Relatórios IA:**
+    *   🧠 Construção inteligente de queries com IA.
+    *   🚀 Execução automática de queries.
+    *   📈 Geração de gráficos e relatórios automatizados.
+
+**Tecnologias:**
+
+*   <img src="https://img.icons8.com/color/24/000000/artificial-intelligence.png" width="20" height="20" alt="IA Icon"/> **IA (Inteligência Artificial)**
+*   <img src="https://img.icons8.com/color/24/000000/machine-learning.png" width="20" height="20" alt="ML Icon"/> **Auto ML (Machine Learning Automatizado)**
+*   <img src="https://img.icons8.com/color/24/000000/business-intelligence.png" width="20" height="20" alt="BI Icon"/> **Auto BI (Business Intelligence Automatizado)**
+*   <img src="https://img.icons8.com/color/24/000000/python.png" width="20" height="20" alt="Python Icon"/> **Streamlit (Web Apps Python)**
+*   <img src="https://img.icons8.com/color/24/000000/google-gemini.png" width="20" height="20" alt="Gemini Icon"/> **Gemini 2 & LLMs**
+
+**Explore o repositório para mais detalhes e exemplos de uso!**  [Acesse o Repo Aqui](https://github.com/chaos4455/Auto-BI-auto-ML-LLM-Gen-Gemini-2-Automation) 👈
+
+---
 🚀 **Bem-vindo ao meu Portfólio de Análise de Dados Estratégicos para Negócios!** 🚀
 
 Este repositório demonstra minhas habilidades especializadas em análise de dados, focadas em otimizar **cadeias de suprimentos, gestão de estoque e controladoria**.  Apresento projetos que aplicam **Python** e um conjunto robusto de bibliotecas para transformar dados brutos em insights acionáveis, gerando valor real para empresas que buscam **eficiência, redução de custos e vantagem competitiva**.  Se você procura um especialista para impulsionar sua operação com dados, você está no lugar certo!
