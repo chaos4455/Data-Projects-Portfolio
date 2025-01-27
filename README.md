@@ -1,33 +1,41 @@
-# 📊 Portfólio de Análise de Dados  - 2024 >  Elias Andrade
+# 📊 Portfólio de Análise de Dados para Supply Chain, Estoque e Controladoria - 2025 >  Elias Andrade
 
-🚀 **Bem-vindo ao meu Portfólio de Análise de Dados!** 🚀
+🚀 **Bem-vindo ao meu Portfólio de Análise de Dados Estratégicos para Negócios!** 🚀
 
-Este repositório é uma vitrine das minhas habilidades em análise de dados e ciência de dados, onde apresento exemplos de como aplico tecnologias como **Python** e bibliotecas especializadas para extrair insights valiosos de grandes volumes de dados. Aqui você encontrará uma seleção de projetos que demonstram minha capacidade de transformar dados em decisões estratégicas.
+Este repositório demonstra minhas habilidades especializadas em análise de dados, focadas em otimizar **cadeias de suprimentos, gestão de estoque e controladoria**.  Apresento projetos que aplicam **Python** e um conjunto robusto de bibliotecas para transformar dados brutos em insights acionáveis, gerando valor real para empresas que buscam **eficiência, redução de custos e vantagem competitiva**.  Se você procura um especialista para impulsionar sua operação com dados, você está no lugar certo!
 
-![Data Analytics](https://github.com/user-attachments/assets/1d8035bc-ec67-4f0b-9393-8fa20a4a3705)
+![Supply Chain Data Analytics](https://github.com/user-attachments/assets/1d8035bc-ec67-4f0b-9393-8fa20a4a3705)
 
 [![License](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 [![Python](https://img.shields.io/badge/Python-v3.9+-blue.svg)](https://www.python.org/)
-[![Pandas](https://img.shields.io/badge/Pandas-v1.3+-orange.svg)](https://pandas.pydata.org/)
-[![NumPy](https://img.shields.io/badge/NumPy-v1.21+-green.svg)](https://numpy.org/)
-[![Matplotlib](https://img.shields.io/badge/Matplotlib-v3.4+-purple.svg)](https://matplotlib.org/)
-[![Seaborn](https://img.shields.io/badge/Seaborn-v0.11+-cyan.svg)](https://seaborn.pydata.org/)
-[![Dash](https://img.shields.io/badge/Dash-v2.0+-blue.svg)](https://dash.plotly.com/)
-[![Plotly](https://img.shields.io/badge/Plotly-v5.0+-red.svg)](https://plotly.com/)
-[![Streamlit](https://img.shields.io/badge/Streamlit-v0.85+-orange.svg)](https://streamlit.io/)
+[![Pandas](https://img.shields.io/badge/Pandas-v2.0+-orange.svg)](https://pandas.pydata.org/)
+[![NumPy](https://img.shields.io/badge/NumPy-v1.26+-green.svg)](https://numpy.org/)
+[![Matplotlib](https://img.shields.io/badge/Matplotlib-v3.8+-purple.svg)](https://matplotlib.org/)
+[![Seaborn](https://img.shields.io/badge/Seaborn-v0.13+-cyan.svg)](https://seaborn.pydata.org/)
+[![Dash](https://img.shields.io/badge/Dash-v2.9+-blue.svg)](https://dash.plotly.com/)
+[![Plotly](https://img.shields.io/badge/Plotly-v5.18+-red.svg)](https://plotly.com/)
+[![Streamlit](https://img.shields.io/badge/Streamlit-v1.29+-orange.svg)](https://streamlit.io/)
 [![AWS EC2](https://img.shields.io/badge/AWS-EC2-orange.svg)](https://aws.amazon.com/ec2/)
-[![Docker](https://img.shields.io/badge/Docker-v20.10+-blue.svg)](https://www.docker.com/)
-[![Kubernetes](https://img.shields.io/badge/Kubernetes-v1.21+-yellow.svg)](https://kubernetes.io/)
+[![Docker](https://img.shields.io/badge/Docker-v24.0+-blue.svg)](https://www.docker.com/)
+[![Kubernetes](https://img.shields.io/badge/Kubernetes-v1.28+-yellow.svg)](https://kubernetes.io/)
 [![ETL](https://img.shields.io/badge/ETL-Process-green.svg)](https://en.wikipedia.org/wiki/Extract,_transform,_load)
 [![Chatbot](https://img.shields.io/badge/Chatbot-Development-lightgrey.svg)](https://en.wikipedia.org/wiki/Chatbot)
+[![RPA](https://img.shields.io/badge/RPA-Automation-lightgreen.svg)](https://en.wikipedia.org/wiki/Robotic_process_automation)
+[![Kafka](https://img.shields.io/badge/Kafka-Streaming-blueviolet.svg)](https://kafka.apache.org/)
+[![Airflow](https://img.shields.io/badge/Airflow-Orchestration-darkcyan.svg)](https://airflow.apache.org/)
+[![MLflow](https://img.shields.io/badge/MLflow-MLOps-black.svg)](https://mlflow.org/)
+[![Kubeflow](https://img.shields.io/badge/Kubeflow-Orchestration-lightgray.svg)](https://www.kubeflow.org/)
+
 
 ---
 
-💼 **Estou animado para trazer minha experiência e paixão por tecnologia para novos desafios na área de dados e projetos mais relevantes !** 💼
+💼 **Consultoria e Projetos PJ Focados em Resultados:**  Ofereço expertise para otimizar seus processos de negócio através da análise de dados. Atuo como freelancer e consultor, entregando soluções personalizadas e eficazes para **empresas de todos os portes** que buscam excelência em **supply chain, gestão de estoque, controladoria e áreas correlatas.** 💼
 
-## 🚀 Estes prints abaixo mostram um projeto completo de machine learning que já desenvolvi, mostra o processo completo desde a preração dos dados, normalização, processamento, transformação, treinamento e consumo do modelo, gerando insights, graficos e otuputs relevantes aplicado ao setor de credito consignado 
+## 🚀 Projetos de Machine Learning Aplicados à Otimização de Crédito Consignado
 
-Algoritmos de segmentação:
+Os prints abaixo ilustram um projeto completo de machine learning que desenvolvi, demonstrando todo o ciclo de vida do projeto: **pré-processamento de dados, normalização, transformação, treinamento de modelos e consumo**, culminando na geração de insights, gráficos e outputs relevantes para o setor de crédito consignado.
+
+**Segmentação de Clientes e Análise de Risco:**
 
 ![grafico_1](https://github.com/user-attachments/assets/46d109b0-5b01-4103-bba2-988bee9f59cd)
 ![grafico_2](https://github.com/user-attachments/assets/f58d1dce-ace4-4193-9357-f4b9a7e50d95)
@@ -35,7 +43,9 @@ Algoritmos de segmentação:
 ![grafico_4](https://github.com/user-attachments/assets/61d1bd03-fb44-4edc-af57-67e3aac19fa4)
 ![grafico_5](https://github.com/user-attachments/assets/7946a39d-ffaf-4d58-8ac2-3d3e44898eaa)
 
-## 🚀 Nestes prints a seguir mostro um sisema super avançado de agentes autonomos com o google gemini 1.5 flash - a automação é capaz de gerenciar ecosistema de agentes autonos, gerar codigo utilizável no mundo real, ela propria executar os codigos gerados e gerar graficos e artefatos reais de analise do dataset real automatizando 100 % e full cycle o processo de analise de dados em um caso de uso prático de uso de inteligência  artificial pra análise de dados de ponta a ponta.
+## 🚀 Agentes Autônomos com IA para Análise de Dados Full-Cycle (Google Gemini 1.5 Flash)
+
+Estes prints demonstram um sistema avançado de agentes autônomos impulsionados pelo Google Gemini 1.5 Flash. Essa solução inovadora **automatiza 100% do ciclo de vida da análise de dados**: desde a gestão de um ecossistema de agentes autônomos, geração de código Python prático e útil, auto-execução do código gerado, até a criação de gráficos e visualizações analíticas robustas a partir de datasets reais. Uma verdadeira demonstração do poder da Inteligência Artificial aplicada à análise de dados de ponta a ponta.
 
 ![screencapture-127-0-0-1-8050-2024-10-22-22_33_40](https://github.com/user-attachments/assets/7001a301-42de-4e4e-8061-5bfe23606374)
 ![grafico1_problemas](https://github.com/user-attachments/assets/15de1bf2-3cc8-4ebd-b21e-519b96f191c5)
@@ -94,54 +104,72 @@ Algoritmos de segmentação:
 <img width="593" alt="Cursor_axdfOCk8dI" src="https://github.com/user-attachments/assets/4193eaa8-7c68-4518-b369-b18053f105e5">
 
 
-## 🌟 Habilidades
+## 🌟 Habilidades Chave para Supply Chain, Estoque e Controladoria
 
-- **Análise Estatística**: Sólida experiência em análise estatística e modelagem preditiva.
-- **Visualização de Dados**: Habilidade em criar visualizações intuitivas e informativas.
-- **Resolução de Problemas**: Capacidade de resolver problemas complexos com base em dados.
-- **Colaboração**: Experiência em trabalho em equipe e comunicação eficaz com stakeholders.
+* **Análise Estatística Avançada:** Experiência robusta em aplicar métodos estatísticos e modelagem preditiva para **previsão de demanda, otimização de níveis de estoque e análise de riscos na cadeia de suprimentos.**
+* **Visualização de Dados Estratégica:** Criação de dashboards e relatórios visuais intuitivos e informativos, focados em **KPIs de estoque, desempenho da cadeia de suprimentos e indicadores de controladoria.**
+* **Otimização de Processos Baseada em Dados:**  Capacidade comprovada em identificar gargalos, ineficiências e oportunidades de melhoria em processos de **gestão de estoque, logística e supply chain, utilizando dados para embasar decisões estratégicas.**
+* **Resolução de Problemas Complexos:**  Habilidade em analisar grandes volumes de dados e identificar padrões para resolver desafios complexos relacionados a **flutuações de demanda, rupturas de estoque, custos logísticos e otimização da cadeia de valor.**
+* **Colaboração e Comunicação Eficaz:** Experiência em trabalhar em equipe e comunicar insights de dados de forma clara e concisa para stakeholders de diversas áreas, incluindo **operações, finanças, compras e alta gestão.**
+* **Desenvolvimento de Modelos Preditivos para Estoque:** Criação e implementação de modelos de machine learning para **prever demanda, otimizar níveis de estoque, reduzir perdas e melhorar a eficiência da gestão de inventário.**
+* **Análise da Curva ABC e Gestão de Estoque:** Domínio em aplicar a análise da Curva ABC para **segmentar itens de estoque, definir estratégias de gestão diferenciadas e otimizar o investimento em inventário.**
+* **Implementação de Indicadores de Desempenho (KPIs):**  Definição e acompanhamento de KPIs relevantes para **monitorar a performance da cadeia de suprimentos, gestão de estoque e controladoria, garantindo o alcance de metas e a melhoria contínua.**
+* **Automação de Relatórios e Dashboards:** Desenvolvimento de soluções para **automatizar a geração de relatórios e dashboards, facilitando o acompanhamento contínuo de indicadores e a tomada de decisões em tempo real.**
+
 
 ## 🌍 Contato
-Se você estiver interessado em colaborar ou aprender mais sobre meus projetos, fique à vontade para entrar em contato!
+
+Se você busca um parceiro estratégico para otimizar sua operação com análise de dados, entre em contato! Estou pronto para colaborar em projetos desafiadores e gerar valor para o seu negócio.
 
 - **LinkedIn**: [Elias Andrade](https://www.linkedin.com/in/elias-dataops/)
 - **Email**: oeliasandrade@gmail.com
 - **WhatsApp**: [44 98859 7116](https://wa.me/5544988597116)
 
-## 🛠️ Tecnologias Utilizadas
+## 🛠️ Tecnologias Utilizadas - Foco em Data Science para Supply Chain e Controladoria
 
 ### 📌 **Linguagens de Programação**
-- **Python**: Linguagem versátil para análise de dados, automação e machine learning.
-- **SQL**: Habilidade em manipulação e consulta de bancos de dados.
+- **Python:** Linguagem principal para análise de dados, automação, machine learning e desenvolvimento de soluções web robustas e escaláveis.
+- **SQL:** Domínio em manipulação e consulta de bancos de dados relacionais, essencial para extração e tratamento de dados de diferentes fontes.
 
-### 📊 **Bibliotecas de Análise de Dados**
-- **Pandas**: Biblioteca fundamental para manipulação e análise de dados.
-- **NumPy**: Biblioteca para operações numéricas e manipulação de matrizes.
-- **Matplotlib & Seaborn**: Ferramentas para visualização de dados, permitindo a criação de gráficos e dashboards informativos.
-- **Dash & Plotly**: Frameworks para a construção de aplicações web interativas e painéis de visualização.
-- **Streamlit**: Ferramenta para criar aplicações de dados rapidamente.
+### 📊 **Bibliotecas de Análise de Dados e Machine Learning**
+- **Pandas:** Biblioteca fundamental para manipulação, limpeza e análise de dados tabulares, otimizada para grandes volumes de dados.
+- **NumPy:** Biblioteca essencial para computação numérica de alta performance, utilizada em operações matemáticas e manipulação de arrays multidimensionais.
+- **Matplotlib & Seaborn:** Ferramentas de visualização de dados para criação de gráficos estáticos e informativos, permitindo a identificação de padrões e tendências.
+- **Dash & Plotly:** Frameworks para construção de dashboards interativos e aplicações web de visualização de dados, ideais para monitoramento de KPIs e análises exploratórias.
+- **Streamlit:** Ferramenta para prototipagem rápida e criação de aplicações web de dados de forma ágil e intuitiva.
+- **Scikit-learn:** Biblioteca abrangente para machine learning, incluindo algoritmos de **regressão, classificação, clustering e redução de dimensionalidade**, utilizados em modelos preditivos para **previsão de demanda, análise de risco e segmentação de clientes.**
+- **TensorFlow & Keras:** Bibliotecas para deep learning, aplicáveis em **modelagem preditiva avançada, análise de séries temporais e reconhecimento de padrões complexos em dados.**
 
-### ☁️ **Ambientes de Nuvem e Containerização**
-- **Docker**: Para containerização de aplicações, facilitando a implementação e escalabilidade.
-- **Kubernetes**: Para orquestração de containers, garantindo eficiência na execução de serviços.
-- **AWS EC2**: Para implementar soluções em nuvem que suportem a análise de dados.
+### ☁️ **Infraestrutura Cloud e Containerização**
+- **Docker:** Plataforma de containerização para empacotamento e distribuição de aplicações, garantindo **portabilidade, escalabilidade e isolamento de ambientes.**
+- **Kubernetes:** Orquestrador de containers para gerenciamento e escalonamento de aplicações em ambientes distribuídos, essencial para **implementação de pipelines de dados robustos e escaláveis.**
+- **AWS EC2:** Serviços de computação em nuvem da Amazon Web Services, utilizados para **hospedagem de aplicações, processamento de dados e implementação de soluções de análise em nuvem.**
 
-### 🔄 **ETL e Processamento de Dados**
-- **ETL** (Extract, Transform, Load): Processos de extração, transformação e carga de dados para análise eficaz.
-- **Automação de Processos**: Ansible, Puppet, Chef.
+### 🔄 **ETL, Orquestração e Automação de Processos de Dados**
+- **ETL (Extract, Transform, Load):**  Experiência em processos completos de ETL para **extração de dados de diversas fontes (bancos de dados, APIs, arquivos), transformação e limpeza dos dados, e carga em data warehouses ou data lakes para análise.**
+- **Apache Airflow:** Plataforma de orquestração de workflows para **automatização de pipelines de dados complexos, agendamento de tarefas, monitoramento e gerenciamento de dependências.**
+- **Apache Kafka:** Plataforma de streaming de dados para **ingestão e processamento de dados em tempo real, ideal para aplicações de monitoramento, análise de eventos e pipelines de dados de alta vazão.**
+- **RPA (Robotic Process Automation):**  Exploração de ferramentas de RPA para **automatização de tarefas repetitivas e manuais em processos de dados, como coleta, extração e integração de dados de sistemas legados.**
+- **Kubeflow & MLflow:** Plataformas de MLOps para **orquestração de workflows de machine learning, gerenciamento de experimentos, versionamento de modelos, deploy e monitoramento de modelos em produção.**
+- **Automação de Infraestrutura (IaC):**  Utilização de ferramentas como Ansible, Puppet e Chef para **automatizar a provisionamento e configuração de infraestrutura de dados em ambientes cloud e on-premises.**
 
-## 🤖 Análise de Dados com Inteligência Artificial
+## 🤖 Análise de Dados Aprimorada com Inteligência Artificial
 
-A integração de inteligência artificial em meus projetos tem sido fundamental para aprimorar a análise de dados. Aqui estão algumas das abordagens que utilizo:
+A Inteligência Artificial é um pilar fundamental na minha abordagem para análise de dados, permitindo soluções mais inteligentes e eficientes:
 
-- **Google Gemini API**: Utilizada para enriquecer a análise de dados e melhorar a interpretação de informações através de IA.
-- **Chatbots e Copilots**: Desenvolvimento de soluções automatizadas que ajudam na interação com usuários e na coleta de dados.
-- **Relatórios Automáticos**: Criação de relatórios que se integram com ferramentas como Telegram, WhatsApp e email, facilitando a disseminação de insights em tempo real.
-- **Automação de Fluxos de Coleta e Processamento de Dados**: Implementação de pipelines que garantem a coleta e processamento contínuo de dados, utilizando as melhores práticas em ETL.
+- **Google Gemini API:** Integração com a API do Google Gemini para **enriquecer análises, gerar insights mais profundos e automatizar tarefas de análise de dados através de linguagem natural e modelos avançados de IA.**
+- **Chatbots e Copilots Inteligentes:** Desenvolvimento de chatbots e copilots personalizados para **interação com usuários, coleta de dados automatizada, geração de relatórios e suporte à decisão baseada em dados.**
+- **Geração Automática de Relatórios e Alertas:** Criação de sistemas para **gerar relatórios analíticos automaticamente e enviar alertas em tempo real via Telegram, WhatsApp, email ou outras plataformas, garantindo que insights críticos cheguem às pessoas certas no momento adequado.**
+- **Automação de Fluxos de Coleta, Processamento e Análise de Dados:** Implementação de pipelines de dados totalmente automatizados, desde a **coleta e ingestão de dados de diversas fontes, passando pelo processamento, transformação, análise e geração de insights, utilizando as melhores práticas em ETL, orquestração e MLOps.**
+- **Geração e Execução Automática de Código com IA:**  Exploração de técnicas de IA para **gerar código Python automaticamente para tarefas de análise de dados, visualização e machine learning, e auto-execução desse código para acelerar o desenvolvimento e a experimentação.**
+- **Modelagem Preditiva e Forecasting com Machine Learning:** Utilização de algoritmos de machine learning para **construir modelos preditivos robustos para previsão de demanda, otimização de estoque, análise de risco e outras aplicações em supply chain e controladoria.**
 
-## 🚀 Projetos em Destaque
 
-Apresento abaixo alguns prints de um projeto de análise de dados usando redes neurais com python, tensorflow e keras aplicado a problemas e soluções de alto impacto
+## 🚀 Projetos em Destaque - Data Science e Machine Learning Aplicados
+
+Abaixo, apresento prints de um projeto de análise de dados que utiliza redes neurais com Python, TensorFlow e Keras, aplicado a problemas e soluções de alto impacto, demonstrando minha expertise em machine learning e deep learning.
+
+**Redes Neurais para Previsão e Análise Preditiva:**
 
 ![grafico2](https://github.com/user-attachments/assets/635824a9-7495-447f-a538-fed1fa0b9d98)
 ![grafico3](https://github.com/user-attachments/assets/7721ff29-0d13-4e77-82a1-1bd044dc6605)
@@ -169,180 +197,122 @@ Apresento abaixo alguns prints de um projeto de análise de dados usando redes n
 ![graph-19](https://github.com/user-attachments/assets/7b7c2f6a-bbc9-43cd-bb26-4797932f588d)
 
 
-### 1. **Painel de Análise de Dados com Flask e Dash**
-- **Descrição**: Desenvolvimento de um painel interativo utilizando **Flask** e **Dash** para visualização de métricas e indicadores de desempenho em tempo real.
-- **Tecnologias**: 
+### 1. **Painel de Análise de Dados Interativo para KPIs de Estoque e Supply Chain (Flask e Dash)**
+- **Descrição**: Desenvolvimento de painéis interativos e dinâmicos utilizando **Flask** e **Dash** para visualização em tempo real de **métricas e KPIs cruciais para gestão de estoque e cadeia de suprimentos.**  Foco em dashboards personalizáveis para **monitoramento de níveis de estoque, giro de estoque, custos de armazenagem, lead times, performance de fornecedores e outros indicadores chave.**
+- **Tecnologias**:
   - Python
   - Flask
   - Dash
   - Plotly
 - **Link do Repositório**: [Demo_Dash_panel_Flask_SRV_API](https://github.com/evolucaoit/Demo_Dash_panel_Flask_SRV_API)
-- ![Painel de Análise](https://img.shields.io/badge/Project-Painel%20de%20Análise-blue.svg)
+- ![Painel de Análise](https://img.shields.io/badge/Project-Painel%20de%20Análise%20de%20Estoque%20e%20Supply%20Chain-blue.svg)
 
 ---
 
-### 2. **API de Exportação de Dados com JWT e Flask**
-- **Descrição**: Criação de uma API segura para exportação de dados utilizando **JWT** para autenticação e **Flask** para construção da aplicação.
-- **Tecnologias**: 
+### 2. **API Segura para Exportação de Dados de Estoque e Vendas (JWT e Flask)**
+- **Descrição**: Criação de APIs robustas e seguras para **exportação de dados de estoque, vendas, compras e outras informações relevantes para análise e integração com sistemas de terceiros.**  Utilização de **JWT para autenticação e Flask para construção de APIs RESTful escaláveis e de alta performance.**
+- **Tecnologias**:
   - Python
   - Flask
   - JWT
 - **Link do Repositório**: [flask_JWT-API-Data_Exporter](https://github.com/evolucaoit/flask_JWT-API-Data_Exporter)
-- ![API de Exportação](https://img.shields.io/badge/Project-API%20Exportação-green.svg)
+- ![API de Exportação](https://img.shields.io/badge/Project-API%20Exportação%20de%20Dados%20de%20Estoque%20e%20Vendas-green.svg)
 
 ---
 
-### 3. **API de Streaming de Dados em Tempo Real**
-- **Descrição**: Desenvolvimento de uma API para streaming de dados utilizando **Flask**, permitindo a troca contínua de informações entre cliente e servidor.
-- **Tecnologias**: 
+### 3. **API de Streaming de Dados em Tempo Real para Monitoramento de Estoque (Flask)**
+- **Descrição**: Desenvolvimento de APIs para **streaming de dados em tempo real, permitindo o monitoramento contínuo de níveis de estoque, movimentações, alertas de ruptura e outras métricas críticas.**  Ideal para **sistemas de gestão de estoque em tempo real e integração com dispositivos IoT.**
+- **Tecnologias**:
   - Python
   - Flask
 - **Link do Repositório**: [Server_Client_Flask-API_Resltime](https://github.com/evolucaoit/Server_Client_Flask-API_Resltime)
-- ![Streaming de Dados](https://img.shields.io/badge/Project-Streaming%20de%20Dados-orange.svg)
+- ![Streaming de Dados](https://img.shields.io/badge/Project-Streaming%20de%20Dados%20de%20Estoque%20em%20Tempo%20Real-orange.svg)
 
 ---
 
-### 4. **Ferramenta de Tratamento de Dados com Streamlit**
-- **Descrição**: Aplicação criada com **Streamlit** que transforma arquivos **XLS** e **CSV** em formatos **JSON** e **YAML** para facilitar a manipulação de dados.
-- **Tecnologias**: 
+### 4. **Ferramenta Streamlit para Tratamento e Conversão de Dados de Estoque e Supply Chain**
+- **Descrição**: Aplicação web interativa criada com **Streamlit** para **facilitar o tratamento, limpeza e conversão de dados de estoque e supply chain.**  Transformação de arquivos **XLS e CSV em formatos JSON e YAML**, simplificando a manipulação e integração de dados de diferentes fontes.
+- **Tecnologias**:
   - Python
   - Streamlit
 - **Link do Repositório**: [Streamlit_Sheet_Yaml-Json_Converter](https://github.com/evolucaoit/Streamlit_Sheet_Yaml-Json_Converter)
-- ![Tratamento de Dados](https://img.shields.io/badge/Project-Tratamento%20de%20Dados-purple.svg)
+- ![Tratamento de Dados](https://img.shields.io/badge/Project-Ferramenta%20Streamlit%20para%20Tratamento%20de%20Dados%20de%20Estoque-purple.svg)
 
 ---
 
-### 5. **Gerador de Datasets com Faker**
-- **Descrição**: Projeto que utiliza a biblioteca **Faker** para gerar dados fictícios para testes e análises em projetos diversos.
-- **Tecnologias**: 
+### 5. **Gerador de Datasets Fictícios para Testes de Modelos de Previsão de Demanda e Estoque (Faker)**
+- **Descrição**: Projeto que utiliza a biblioteca **Faker** para **gerar datasets fictícios de alta qualidade para testes e validação de modelos de previsão de demanda, otimização de estoque e outras aplicações em supply chain.**  Ideal para **simulações, desenvolvimento de modelos e treinamento de algoritmos de machine learning.**
+- **Tecnologias**:
   - Python
   - Faker
 - **Link do Repositório**: [Gerador_planilha_estoque_faker](https://github.com/evolucaoit/Gerador_planilha_estoque_faker)
-- ![Gerador de Datasets](https://img.shields.io/badge/Project-Gerador%20de%20Datasets-yellow.svg)
+- ![Gerador de Datasets](https://img.shields.io/badge/Project-Gerador%20de%20Datasets%20Fictícios%20para%20Estoque%20e%20Supply%20Chain-yellow.svg)
 
 ---
 
-### 6. **Análise de Dados de Pagamento PIX**
-- **Descrição**: Projeto de análise de dados que coleta informações sobre transações de pagamento via PIX, permitindo uma análise detalhada do comportamento do usuário.
-- **Tecnologias**: 
-  - Python
-  - Pandas
-- **Link do Repositório**: [MercadoPago-API-PIX-Event-Collector](https://github.com/chaos4455/MercadoPago-API-PIX-Event-Collector)
-- ![Análise de PIX](https://img.shields.io/badge/Project-Análise%20de%20PIX-lightgreen.svg)
-
----
-
-### 7. **Mapas de Calor de Transações PIX**
-- **Descrição**: Criação de mapas de calor para visualização das transações PIX, permitindo identificar padrões e insights valiosos para estratégias de negócio.
-- **Tecnologias**: 
-  - Python
-  - Plotly
-- **Link do Repositório**: [PIX-payments-heathmap](https://github.com/chaos4455/PIX-payments-heathmap)
-- ![Mapas de Calor](https://img.shields.io/badge/Project-Mapas%20de%20Calor-red.svg)
-
----
-
-### 8. **Análise de Vendas da Franquia Cacau Show**
-- **Descrição**: Análise de dados de vendas da franquia, utilizando **Python**, **Flask** e **Plotly** para visualizar e prever resultados de vendas.
-- **Tecnologias**: 
-  - Python
-  - Flask
-  - Plotly
-- **Link do Repositório**: [CACAU-DATA](https://github.com/chaos4455/CACAU-DATA)
-- ![Análise de Vendas](https://img.shields.io/badge/Project-Análise%20de%20Vendas-orange.svg)
-
----
-
-### 9. **Análise de Dados Hospitalares**
-- **Descrição**: Projeto que analisa dados de um hospital, fornecendo insights sobre o atendimento e a gestão de recursos.
-- **Tecnologias**: 
-  - Python
-  - Pandas
-- **Link do Repositório**: [Hospital-DATA-Analysis](https://github.com/chaos4455/Hospital-DATA-Analysis)
-- ![Análise Hospitalar](https://img.shields.io/badge/Project-Análise%20Hospitalar-purple.svg)
-
----
-
-### 10. **Análise de Estoque e Curva ABC**
-- **Descrição**: Projeto de análise de dados que utiliza a Curva ABC para otimizar a gestão de estoques, melhorando a eficiência operacional.
-- **Tecnologias**: 
+### 10. **Análise de Estoque e Curva ABC para Otimização da Gestão de Inventário**
+- **Descrição**: Projeto de análise de dados focado em **gestão de estoque e otimização de inventário**, utilizando a **Curva ABC para segmentar itens de estoque e definir estratégias de gestão diferenciadas.**  Geração de insights para **reduzir custos de armazenagem, otimizar níveis de estoque e melhorar a eficiência operacional.**
+- **Tecnologias**:
   - Python
   - Pandas
 - **Link do Repositório**: [Analise-Estoque-DATA-Analysis](https://github.com/chaos4455/Analise-Estoque-DATA-Analysis)
-- ![Análise de Estoque](https://img.shields.io/badge/Project-Análise%20de%20Estoque-lightblue.svg)
+- ![Análise de Estoque](https://img.shields.io/badge/Project-Análise%20de%20Estoque%20e%20Curva%20ABC-lightblue.svg)
+
 
 ---
 
-### 11. **Pesquisa Salarial em Maringá**
-- **Descrição**: Análise de dados coletados de salários na cidade de Maringá, gerando insights sobre o mercado de trabalho local.
-- **Tecnologias**: 
-  - Python
-  - Pandas
-- **Link do Repositório**: [Maringa-sallary-survey-2016-2024](https://github.com/chaos4455/Maringa-sallary-survey-2016-2024)
-- ![Pesquisa Salarial](https://img.shields.io/badge/Project-Pesquisa%20Salarial-green.svg)
 
----
-
-### 12. **Análise de Dados de Pagamento PIX**
-- **Descrição**: Projeto que analisa dados de pagamento via PIX, proporcionando insights sobre o comportamento dos usuários e a eficiência do sistema.
-- **Tecnologias**: 
-  - Python
-  - Pandas
-- **Link do Repositório**: [pix-confirmation-data-anlaytics](https://github.com/chaos4455/pix-confirmation-data-anlaytics)
-- ![Análise de Dados de Pagamento](https://img.shields.io/badge/Project-Análise%20de%20Dados%20de%20Pagamento-yellow.svg)
-
----
-
-### 13. **Análise de Contratos com IA**
-- **Descrição**: Projeto de prova de conceito (POC) que utiliza inteligência artificial para analisar contratos, identificando padrões e cláusulas importantes.
-- **Tecnologias**: 
+### 13. **Análise Preditiva de Contratos de Fornecedores com IA**
+- **Descrição**: Projeto de prova de conceito (POC) que aplica **inteligência artificial para análise de contratos de fornecedores**, identificando **padrões, riscos, oportunidades e cláusulas importantes.**  Utilização de técnicas de **processamento de linguagem natural (NLP) e machine learning para extrair insights valiosos de documentos contratuais.**
+- **Tecnologias**:
   - Python
   - Machine Learning
 - **Link do Repositório**: [Analise-Contrato-POC-AI](https://github.com/chaos4455/Analise-Contrato-POC-AI)
-- ![Análise de Contratos](https://img.shields.io/badge/Project-Análise%20de%20Contratos-lightgrey.svg)
+- ![Análise de Contratos](https://img.shields.io/badge/Project-Análise%20Preditiva%20de%20Contratos%20de%20Fornecedores%20com%20IA-lightgrey.svg)
 
 ---
 
-### 14. **Chatbot Avançado com IA**
-- **Descrição**: Desenvolvimento de um chatbot com domínio específico para análise de dados, utilizando técnicas avançadas de inteligência artificial.
-- **Tecnologias**: 
-  - Python
-  - AI
-- **Link do Repositório**: [Rainha-Vermelha-V6-POC](https://github.com/chaos4455/Rainha-Vermelha-V6-POC)
-- ![Chatbot Avançado](https://img.shields.io/badge/Project-Chatbot%20Avançado-red.svg)
-
----
-
-### 15. **Copilot Autônomo para Análise de Dados**
-- **Descrição**: Projeto que integra o Google Gemini para gerar relatórios de dados em áudio com voz natural, facilitando a interpretação de informações.
-- **Tecnologias**: 
+### 15. **Copilot Autônomo com IA para Geração de Relatórios de Estoque e Supply Chain com Voz Natural**
+- **Descrição**: Projeto inovador que **integra o Google Gemini para gerar relatórios de dados de estoque e supply chain em formato de áudio com voz natural.**  Facilita a **interpretação de informações complexas e a disseminação de insights para equipes operacionais e gerenciais de forma acessível e intuitiva.**
+- **Tecnologias**:
   - Python
   - Google Gemini
 - **Link do Repositório**: [Ai-Data_Agent_Analysis](https://github.com/chaos4455/Ai-Data_Agent_Analysis)
-- ![Copilot Autônomo](https://img.shields.io/badge/Project-Copilot%20Autônomo-orange.svg)
+- ![Copilot Autônomo](https://img.shields.io/badge/Project-Copilot%20Autônomo%20para%20Relatórios%20de%20Estoque%20com%20IA-orange.svg)
 
 ---
 
-### 16. **Meu Portfólio Principal**
-- **Descrição**: Este repositório é uma coleção abrangente de todos os meus projetos em análise de dados e ciência de dados.
+### 16. **Meu Portfólio Principal - Coleção Completa de Projetos Data Science & Analytics**
+- **Descrição**: Este repositório é o **hub central de todos os meus projetos em análise de dados, ciência de dados e inteligência artificial.**  Explore a coleção completa para ter uma visão abrangente da minha expertise e experiência.
 - **Link do Repositório**: [Chaos4455](https://github.com/chaos4455/Chaos4455)
-- ![Portfólio Principal](https://img.shields.io/badge/Project-Portfólio%20Principal-blue.svg)
+- ![Portfólio Principal](https://img.shields.io/badge/Project-Portfólio%20Principal%20-%20Chaos4455-blue.svg)
 
 ---
-# **Elias Andrade** 💻🚀
+### 🚀  **Roadmap 2025 - Aprofundamento em Data Engineering e MLOps** 🚀
 
-Construído com muito amor e dedicação ❤️  
-Elias Andrade - 23/10/2024 - Maringá, Paraná  
-**Isadora, te amo filha do meu coração!** 👨‍👧💖  
+Em 2025, meu foco será **masterizar e expandir meu skill set em Data Engineering e MLOps**, com o objetivo de construir **soluções de dados ainda mais robustas, escaláveis e automatizadas.**  As tecnologias prioritárias para aprofundamento e especialização incluem:
 
-### "Não há conhecimento que não seja poder." 💎🦂
+* **Apache Kafka e Apache Airflow:**  Para construção de **pipelines de dados de alta performance, ingestão de dados em tempo real, orquestração de workflows complexos e automação de processos de dados.**
+* **Kubeflow e MLflow:**  Para **implementação de MLOps em escala, gerenciamento do ciclo de vida completo de modelos de machine learning, versionamento, deploy, monitoramento e garantia da qualidade e performance de modelos em produção.**
+* **RPA (Robotic Process Automation):** Integração de RPA para **automatizar tarefas manuais em processos de dados, otimizar a coleta e integração de dados de sistemas legados e aumentar a eficiência operacional.**
+
+Este aprofundamento estratégico em Data Engineering e MLOps me permitirá **oferecer soluções ainda mais completas e de ponta a ponta para meus clientes**, desde a **infraestrutura de dados, pipelines de ingestão e processamento, até a modelagem, deploy e monitoramento de soluções de machine learning em produção.**
+
+
+# **Elias Andrade** 💻🚀 - Data Scientist & Analytics Consultant
+
+Construído com paixão por dados e tecnologia ❤️
+Elias Andrade - 27/01/2025 - Maringá, Paraná
+**Isadora, minha inspiração!** 👨‍👧💖
+
+### "Dados são a bússola para decisões estratégicas e a chave para a inovação." 💎🦂
 
 ## Conecte-se comigo:
-- [LinkedIn](https://www.linkedin.com/in/itilmgf)  
-- [GitHub](https://github.com/evolucaoit)  
+- [LinkedIn](https://www.linkedin.com/in/elias-dataops/)
+- [GitHub](https://github.com/evolucaoit)
 
-## Repositórios:
-- [Chaos4455](https://github.com/chaos4455) 🎲💡  
-- [Replika AI Solutions](https://github.com/replika-ai-solutions?tab=repositories) 🤖🛠️  
+## Repositórios Principais:
+- [Chaos4455](https://github.com/chaos4455) 🎲💡 - Portfólio Completo Data Science & Analytics
+- [Replika AI Solutions](https://github.com/replika-ai-solutions?tab=repositories) 🤖🛠️ - Projetos Open Source e Soluções IA
 
-Feito com carinho e uma pitada de tecnologia, rsrsrs. 🚀❤️
+Feito com carinho e uma dose extra de tecnologia, rsrsrs. 🚀❤️
