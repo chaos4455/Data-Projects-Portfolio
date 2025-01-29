@@ -1,5 +1,10 @@
 # **Elias Andrade** 💻🚀 - Data Scientist & Analytics Consultant | Freelancer & PJ
 
+![2E3XKgChKG](https://github.com/user-attachments/assets/12c23079-b110-4e49-a785-51fcdd0a6d88)
+
+![WDjYU0AQUR](https://github.com/user-attachments/assets/8c57068f-208b-4696-8aa0-00c574e9d51d)
+
+
 ## 🤖 Auto IA & Data Automation Web Apps 📊
 
 [![Repo Auto IA & Data](https://img.shields.io/badge/🚀%20Ver%20Repo%20Auto%20IA-blue?style=for-the-badge&logo=github&logoColor=white&labelColor=dodgerblue&logoWidth=20)](https://github.com/chaos4455/Auto-BI-auto-ML-LLM-Gen-Gemini-2-Automation)
