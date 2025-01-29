@@ -1,7 +1,5 @@
 # **Elias Andrade** 💻🚀 - Data Scientist & Analytics Consultant | Freelancer & PJ
 
-![2E3XKgChKG](https://github.com/user-attachments/assets/12c23079-b110-4e49-a785-51fcdd0a6d88)
-
 ![WDjYU0AQUR](https://github.com/user-attachments/assets/8c57068f-208b-4696-8aa0-00c574e9d51d)
 
 
