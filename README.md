@@ -193,6 +193,19 @@ Olá! 👋 Sou um profissional apaixonado por usar dados, inteligência artifici
 *   **Matplotlib e Seaborn:** 📈 Visualização de dados.
 *   **Plotly:** 📊 Criação de gráficos interativos.
 
+![8782fa73df0d1d1240b2dbc91df0c6b54cd60953a35053c608539f83](https://github.com/user-attachments/assets/a644fcc2-393c-4f4e-af36-ff33e6a7848f)
+
+![2f16d94e152abc5aaaed15ee6bc686319f2318f145821f5eff47e0a6](https://github.com/user-attachments/assets/ed008a53-7aa3-451d-b4bf-60bae010ba3a)
+
+![275bc0278c5debe4b297180c5180dc066c68aaf8ff6a8a5dd79e050c](https://github.com/user-attachments/assets/8a0a164d-030a-444a-ba8e-8aeb72f611e2)
+
+![b23f83cc58dd1df75f1eb9bb98e67b2dd8c2c9ab0725ee2b4d521721](https://github.com/user-attachments/assets/914a252e-8ee0-4da2-b73f-5d2c75d892f0)
+
+![newplot (1)](https://github.com/user-attachments/assets/ca2d29ff-eb0a-4a92-ae74-c9a1b010f182)
+
+![newplot (4)](https://github.com/user-attachments/assets/e5b8fbe3-11e6-446e-a3f4-6bd26eed9a45)
+
+
 ### 🧰 Outras Ferramentas
 
 *   **SQL:** 🗄️ Consultas e manipulação de bancos de dados.
